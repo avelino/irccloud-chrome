@@ -1,7 +1,7 @@
 {
   "name": "IRCCloud",
   "description": "IRCCloud is an IRC client that runs in your browser. Your connections will stay open even when you go offline.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "app": {
     "background": {
       "scripts": ["background.js"]
